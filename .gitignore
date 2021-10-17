@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+task_4/Bascket_test_project/virtualenvs
 build/
 develop-eggs/
 dist/
